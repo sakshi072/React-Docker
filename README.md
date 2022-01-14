@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+NOTE: The API Services Source codes are not included in this repository.
+
 ## Available Scripts
 
 In the project directory, you can run:
